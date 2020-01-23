@@ -4,7 +4,7 @@ html {
 }
 
 main {
-  width: 60%;
+  width: 100%;
 }
 
 h1 {
@@ -34,16 +34,16 @@ h2 {
 
 p {
   color: #69696a;
-  margin-left: 20px;
-  width: 68%;
+  margin-left: 10px;
+  width: 100%;
   border-left: 3px solid grey;
   padding-left: 10px;
 }
 
 button {
-  width: 70%;
+  width: 100%;
   height: 35px;
-  color: white;
+  color: #fff;
   background-color: black;
   border-radius: 100px;
   border: none;
